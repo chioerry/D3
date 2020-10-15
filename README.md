@@ -6,7 +6,7 @@ Running this file is a bit tricky...
 ==============================================================
 
 First you need to run the command 'node run execute' in the terminal.
-this is required to get the required merged csv file.
+This is Required to get the required merged csv file.
 Now you can see IndiaMerge2.csv in the input data folder.
 
 ===============================================================
